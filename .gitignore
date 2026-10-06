@@ -1,6 +1,6 @@
 .env 
 backend/venv/ 
-data_prep/raw_photos/ 
+data_prep/
 node_modules/ 
 frontend/dist/
 
