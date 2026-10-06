@@ -82,6 +82,10 @@ class LogRequest(BaseModel):
     chips_shown: str
     time_since_start: str
 
+@app.get("/")
+def root():
+    return {"status": "ok", "message": "MomentSort API is running"}
+
 @app.get("/photos")
 def get_photos():
     # Sort year DESC, month ASC
