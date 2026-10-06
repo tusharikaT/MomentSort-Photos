@@ -1,0 +1,54 @@
+﻿Interview Questions
+Part 1 — Warm Up (2 min)
+Build comfort, understand their relationship with their library
+
+
+How long have you been using  Google Photos?
+When was the last time you went back to find an old photo — what was the occasion?
+
+
+Part 2 — A Specific Recent Failure (10 min)
+The most important part — get the full episode, not a summary
+
+
+Tell me about the last time you searched for a photo and it was frustrating or took longer than it should have.
+(Once they describe it) Walk me through exactly what you did — step by step. What did you type first?(search bar or ask photos assistant)- any feature usage.
+What were you thinking when the results came back?
+At what point did you feel like you were stuck?
+What did you do next? And after that?
+Did you eventually find it? How?
+How long did the whole thing take?
+How did you feel at the end of it — whether you found it or not?
+
+
+Part 3 — The Memory They Carry (5 min)
+Understand the gap between what they remember and what they can type
+
+
+When you were looking for that photo — what did you actually remember about it? Close your eyes and describe it to me like I can't see it.
+Was there anything about it you just couldn't put into words?
+What would you have needed to remember to find it faster?
+Part 4 — The Moment of Giving Up (5 min)
+Understand the emotional cost and the workaround
+
+
+Have you ever completely given up on finding a photo? What happened?
+When you switch to scrolling manually — what is that like? Walk me through it.
+Has a photo ever felt truly lost to you — like you will never find it?
+Does that bother you? What does it feel like to lose a memory like that?
+
+
+Part 5 — Mental Model (5 min)
+Understand what they wish existed — without leading them to your solution
+
+
+If you could change one thing about how Google Photos search works, what would it be?
+Imagine search worked perfectly for you — what would that look like?
+Have you ever tried anything else to find photos — other apps, asking someone, anything?
+Part 6 — Observation (if possible, 5 min)
+Watch them actually search — the most valuable part
+
+
+Can you show me on your phone? Search for a photo right now — any photo from more than a year ago that you haven't looked at recently.
+(Watch silently, note every action)
+Talk me through what you are thinking as you do this.

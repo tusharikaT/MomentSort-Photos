@@ -1,0 +1,26 @@
+.env 
+backend/venv/ 
+data_prep/raw_photos/ 
+node_modules/ 
+frontend/dist/
+
+# Unused / Scratch Scripts
+test_api.py
+test_models.py
+call_haiku.py
+
+# Temporary Notes, Logs, and Data
+dataset_generation_rules.txt
+usability_learnings.md
+usability_test_logs.csv
+
+# Duplicated Project Folder (Avoid nested Git repos)
+momentsort/
+
+# Standard OS / Language Garbage
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
