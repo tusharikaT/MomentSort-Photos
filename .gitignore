@@ -13,6 +13,9 @@ call_haiku.py
 dataset_generation_rules.txt
 usability_learnings.md
 usability_test_logs.csv
+docs/
+slides/
+momentsort_mvp_document.md
 
 # Duplicated Project Folder (Avoid nested Git repos)
 momentsort/
